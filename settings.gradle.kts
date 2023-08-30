@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "compose-playground"
 include(":app")
+include(":text")
